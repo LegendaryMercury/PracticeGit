@@ -61,10 +61,10 @@
             this.AddContainerButton.UseVisualStyleBackColor = true;
             this.AddContainerButton.Click += new System.EventHandler(this.AddContainerButton_Click);
             // 
-            // ContainerNumberTxtbox
+            // ContainerNumberTxtBox
             // 
             this.ContainerNumberTxtBox.Location = new System.Drawing.Point(12, 25);
-            this.ContainerNumberTxtBox.Name = "ContainerNumberTxtbox";
+            this.ContainerNumberTxtBox.Name = "ContainerNumberTxtBox";
             this.ContainerNumberTxtBox.Size = new System.Drawing.Size(191, 20);
             this.ContainerNumberTxtBox.TabIndex = 3;
             // 
@@ -165,7 +165,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Control;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.ExitButton);
             this.Controls.Add(this.EditContainerButton);
