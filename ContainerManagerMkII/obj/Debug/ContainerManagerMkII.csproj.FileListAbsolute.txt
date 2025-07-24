@@ -1,0 +1,11 @@
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\bin\Debug\ContainerManagerMkII.exe.config
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\bin\Debug\ContainerManagerMkII.exe
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\bin\Debug\ContainerManagerMkII.pdb
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.csproj.AssemblyReference.cache
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.Form1.resources
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.Properties.Resources.resources
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.csproj.GenerateResource.cache
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.csproj.CoreCompileInputs.cache
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.exe
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.pdb
+C:\Users\RadiumPCs\source\repos\ContainerManagerMkII\ContainerManagerMkII\obj\Debug\ContainerManagerMkII.exe.config
